@@ -12,7 +12,6 @@ $ docker pull suzuken/go-node
 
 Based on images of official [docker-library](https://github.com/docker-library).
 
-* https://github.com/nodejs/docker-node/blob/ae9e2d4f04a0fa82261df86fd9556a76cefc020d/6.3/Dockerfile
 * https://github.com/docker-library/golang/blob/cdf73bb71f9a0c0f9aa22beb3d9d34274aaf1b03/1.7/Dockerfile
 
 ## LICENSE
